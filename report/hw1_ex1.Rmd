@@ -3,9 +3,9 @@
 __1.a__ Install the tidyverse and knitr.
 
 ```{r, message = FALSE}
-
-install.packages("tidyverse")
-install.packages("knitr")
+##put into comments as package is already installed
+#install.packages(tidyverse)
+#install.packages(knitr)
 
 ```
 
